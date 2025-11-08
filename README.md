@@ -42,8 +42,7 @@ ___
 
 </p>
 <p>
-2. Then, I downloaded the osTicket-Installation-Files.zip and unziped it onto my desktop within the virual machine. The folder should be called “osTicket-Installation-Files”
-We will use the files in this folder to install osTicket and some of the dependencies.
+2. Then, I downloaded the osTicket-Installation-Files.zip and unziped it onto my desktop within the virual machine. </p> This contains all the core application files needed to deploy osTicket.
   </p>
 </p>
 <br />
@@ -53,7 +52,7 @@ We will use the files in this folder to install osTicket and some of the depende
 
 </p>
 <p>
-3. Installed / Enabled IIS in Windows WITH CGI
+3. I Installed / Enabled IIS in Windows WITH CGI
 World Wide Web Services -> Application Development Features -> [X] CGI.</p>
   This ensures the osTicket system can actually run on Windows. It allows the server to execute scripts such as PHP, the language osTicket is written in.
   </p>
